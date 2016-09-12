@@ -1,8 +1,9 @@
 body {
-    color: #3d3d3d;
+    background-color: #3d3d3d;
 
 }
 
 #msg {
     color: #FFF;
+    margin: 0 auto;
 }
